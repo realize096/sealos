@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@kubernetes/client-node": "0.18.1",
+    "@kubernetes/client-node": "0.22.3",
     "@tanstack/react-query": "^4.29.13",
-    "axios": "1.4.0",
+    "axios": "1.7.8",
     "clsx": "^1.2.1",
     "immer": "^10.0.2",
     "js-yaml": "^4.1.0",
