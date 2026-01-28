@@ -16,7 +16,7 @@
 # Refer to https://github.com/GoogleContainerTools/distroless for more details
 
 # FROM gcr.io/distroless/static:nonroot
-FROM alpine:latest
+FROM alpine:3.23.3
 
 ARG TARGETARCH
 
